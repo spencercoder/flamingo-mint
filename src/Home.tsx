@@ -418,15 +418,10 @@ const Home = (props: HomeProps) => {
           background: '#F2C56A'
         }}
       >
-        <div className="flex flex-col items-center px-12 py-8 w-screen max-w-2xl gap-6 md:(flex-row px-0 w-full)">
-          <img
-            src={meImg}
-            className="w-60 h-60"
-            style={{
-              boxShadow: '-10px 10px 2px 0 #B84570'
-            }}
-            alt=""
-          />
+
+
+        <div className="flex flex-col items-center px-12 py-8 w-screen max-w-4xl gap-6 md:(flex-row px-0 w-full)">
+
           <div
             className="flex flex-col text-center"
             style={{
@@ -442,13 +437,34 @@ const Home = (props: HomeProps) => {
             >
               About Me
             </h1>
+            <img
+                src={meImg}
+                className="w-60 h-60 self-center inline-flex mt-4 mb-4"
+                style={{
+                  boxShadow: '-10px 10px 2px 0 #B84570'
+                }}
+                alt=""
+            />
             <span
-             className="text-6x1"
+             className="text-md"
              style={{
                 fontWeight: 800
               }}
             >
-              Hello. My name is Spencer! I'm 14 years old and I am the Creator of the FLAMINGO MAFIA nft project and I'm the one behind all the art, social media, and much more! My hobby is playing soccer and in my free time I check out the Crypto Space. I am so excited to launch my project and I hope you are excited too!
+              <p className={"mt-2"}>Hello. My name is Spencer! I'm 14 years old and I am the Creator of the FLAMINGO MAFIA nft project and I'm the one behind all the art, social media, and much more! My hobby is playing soccer and in my free time I check out the Crypto Space. I am so excited to launch my project and I hope you are excited too!
+</p>
+
+              <p className={"mt-2"}> I’m so fascinated by crypto! I love everything about it I believe it's better than fiat and that it's the future of the world, NFTS really inspired me so much when I saw a video from Fewocious (a famous Artist in the NFT SPACE) talking about how she sold a jpeg for thousands. So then I researched about it for a while and started selling my own 1/1 NFTS because I always loved creating art during my free time. So when a new year started 2021, I was scrolling through OpenSea and saw an NFT collection of 10k NFTS they all looked the same can’t remember the exact name right now but I was confused about how that collection made that many NFTS it is basically impossible, it would take a person years to do something like that! So here I am, after all the research, making multiple traits for the Flamingo Mafia NFT collection, learning how to code, errors, etc, I FINALLY DID IT! I made my first NFT collectible Project.
+</p>
+
+ <p className={"mt-2"}>But the most important part about my collection, the reason why I really started this. Is because when Covid started in 2020 a lot of people around the world started to be homeless and didn’t have a job because of lockdown and all of that nonsense, I and my family were victims our self, my dad works as a Chiropractor and travels back and forth from our home country to his clinics in a different country every week until Covid happened and he couldn’t fly back and forth anymore because there was a lockdown. Three months into the lockdown my dad got bankrupt, he couldn’t pay our bills anymore we were running out of our savings and couldn’t pay the rent of our house either, so then my dad got worried because he didn’t know what to do anymore and he also got depressed because he couldn’t provide for his family like a parent should do. Europe began to be really crazy there were Riots, military on the streets, and much more crazy stuff that I don’t even want to explain. So we decided to use our last amount of savings, packed our container with all our personal things, and left Europe to go all the way on the other side of the World, a better place with no riots or any trouble like the United States, Europe, etc. My dad set up a clinic in our new home country and got back on our feet.
+</p>
+
+ <p className={"mt-2"}>So the reason why I have created this project is that I want to help those in need The Homeless, people that don’t have much deserve more in the world like a roof over their head, food, a job, etc. A lot of people (Not saying all) that are middle class or Rich don’t really care about people that are homeless, they care more about their personal life AKA Selfish!
+</p>
+
+   <p className={"mt-2"}>LET US MAKE A DIFFERENCE IN THIS WORLD MAFIA!</p>
+
             </span>
           </div>
         </div>
