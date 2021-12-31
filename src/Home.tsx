@@ -500,7 +500,7 @@ const Home = (props: HomeProps) => {
               What is Flamingo Mafia?
             </h1>
             <p>
-              A unique NFT collection of 8888 cool mafia birds that rule the Solana Blockchain. You will be able to use it for commercial or creative rights if owned.
+              A unique NFT collection of 3333 cool mafia birds that rule the Solana Blockchain. You will be able to use it for commercial or creative rights if owned.
             </p>
           </div>
           <div className="flex flex-col w-full flex-shrink-0 p-3 md:w-1/2">
@@ -514,7 +514,7 @@ const Home = (props: HomeProps) => {
               Why should I buy one?
             </h1>
             <p>
-              Because they're Flamingos, who doesn't like Flamingos especially these! OK, not only because of that, also because we are going to be DONATING 15% or more of the launch and because your supporting a young kid that spent a lot of time creating the art keeping up with the socials and much more all by himself.
+              Because they're Flamingos, who doesn't like Flamingos especially these! OK, not only because of that, also because we are going to be DONATING 20% of the launch and because your supporting a young kid that spent a lot of time creating the art keeping up with the socials and much more all by himself.
             </p>
           </div>
           <div className="flex flex-col w-full flex-shrink-0 p-3 md:w-1/2">
@@ -528,7 +528,7 @@ const Home = (props: HomeProps) => {
               How was the collection made?
             </h1>
             <p>
-              Every 8888 unique mafias are made out of multiple properties from 7 different categories (Clothes, Backgrounds, Eyes, Eyewear, Hats, Furs, and Neckless).
+              Every 3333 unique mafias are made out of 140+ traits made by Spencer from 7 different categories (Clothes, Backgrounds, Eyes, Eyewear, Hats, Furs, and Neckless).
             </p>
           </div>
           <div className="flex flex-col w-full flex-shrink-0 p-3 md:w-1/2">
@@ -607,19 +607,19 @@ const Home = (props: HomeProps) => {
           <div className="flex items-center px-10 py-7 rounded-md border-2 border-black text-black bg-white shadow-md">
             <b className="mr-4 font-bold text-xl">25%</b>
             <span>
-              We will be preparing for the 2nd launch  which will have the rest of the 8688 Flamingo Mafia members.
+              We will be preparing for the 2nd launch  which will have the rest of the 3133 Flamingo Mafia members.
             </span>
           </div>
           <div className="flex items-center px-10 py-7 rounded-md border-2 border-black text-black bg-white shadow-md">
             <b className="mr-4 font-bold text-xl">50%</b>
             <span>
-              The Flamingo Mafia is not bad and dangerous like you would think, Yes! we do have a soft spot for helping those in need. So that's why we are donating 20% of the profit to multiple charities, which will be chosen by the Mafia (community).
+              The Flamingo Mafia is not bad and dangerous like you would think, Yes! we do have a soft spot for helping those in need. So that's why we are donating 20% of the profit to the homeless, which will be chosen by the Mafia (community).
             </span>
           </div>
           <div className="flex items-center px-10 py-7 rounded-md border-2 border-black text-black bg-white shadow-md">
             <b className="mr-4 font-bold text-xl">75%</b>
             <span>
-            opening a flamingo mafia Merch line so that you can show off the Mafia you belong to! And…. 100% of the profit will be going to charities.
+            Opening a Flamingo Mafia Merch line so that you can show off the Mafia you belong to! And…. 100% of the profit will be going to charities.
             </span>
           </div>
           <div className="flex items-center px-10 py-7 rounded-md border-2 border-black text-black bg-white shadow-md">
