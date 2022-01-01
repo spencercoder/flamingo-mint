@@ -607,7 +607,7 @@ const Home = (props: HomeProps) => {
           <div className="flex items-center px-10 py-7 rounded-md border-2 border-black text-black bg-white shadow-md">
             <b className="mr-4 font-bold text-xl">25%</b>
             <span>
-              We will be preparing for the 2nd launch which will have the rest of the 3133 Flamingo Mafia members and.... 3 1/1 Edition .
+              We will be preparing for the 2nd launch which will have the rest of the 4133 Flamingo Mafia members.
             </span>
           </div>
           <div className="flex items-center px-10 py-7 rounded-md border-2 border-black text-black bg-white shadow-md">
