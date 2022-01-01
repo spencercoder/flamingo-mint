@@ -500,7 +500,7 @@ const Home = (props: HomeProps) => {
               What is Flamingo Mafia?
             </h1>
             <p>
-              A unique NFT collection of 3333 cool mafia birds that rule the Solana Blockchain. You will be able to use it for commercial or creative rights if owned.
+              A unique NFT collection of 4444 cool mafia birds that rule the Solana Blockchain. You will be able to use it for commercial or creative rights if owned.
             </p>
           </div>
           <div className="flex flex-col w-full flex-shrink-0 p-3 md:w-1/2">
@@ -528,7 +528,7 @@ const Home = (props: HomeProps) => {
               How was the collection made?
             </h1>
             <p>
-              Every 3333 unique mafias are made out of 140+ traits made by Spencer from 7 different categories (Clothes, Backgrounds, Eyes, Eyewear, Hats, Furs, and Neckless).
+              Every 4444 unique mafias are made out of 140+ traits made by Spencer from 7 different categories (Clothes, Backgrounds, Eyes, Eyewear, Hats, Furs, and Neckless).
             </p>
           </div>
           <div className="flex flex-col w-full flex-shrink-0 p-3 md:w-1/2">
@@ -607,7 +607,7 @@ const Home = (props: HomeProps) => {
           <div className="flex items-center px-10 py-7 rounded-md border-2 border-black text-black bg-white shadow-md">
             <b className="mr-4 font-bold text-xl">25%</b>
             <span>
-              We will be preparing for the 2nd launch  which will have the rest of the 3133 Flamingo Mafia members.
+              We will be preparing for the 2nd launch which will have the rest of the 3133 Flamingo Mafia members and.... 3 1/1 Edition .
             </span>
           </div>
           <div className="flex items-center px-10 py-7 rounded-md border-2 border-black text-black bg-white shadow-md">
