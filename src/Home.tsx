@@ -404,7 +404,7 @@ const Home = (props: HomeProps) => {
           }}
         >
 
-          <span className="text-sm">Connect wallet to mint</span>
+          <span className="text-sm">Coming Soon</span>
         </button> 
         }
         
