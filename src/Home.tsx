@@ -625,7 +625,7 @@ const Home = (props: HomeProps) => {
           <div className="flex items-center px-10 py-7 rounded-md border-2 border-black text-black bg-white shadow-md">
             <b className="mr-4 font-bold text-xl">100%</b>
             <span>
-              We will be hearing suggestions from the community of what should happen in the 2nd phase, like staking, special airdrops, new editions, etc.
+              I will be hearing suggestions from the community of what should happen in the 2nd phase, like staking, special airdrops, 3D editions, Tokens, etc.
               <br/>
               There are going to be many awesome things that could possibly happen in the near future. So you never know.
             </span>
