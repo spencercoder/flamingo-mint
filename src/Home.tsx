@@ -459,16 +459,7 @@ const Home = (props: HomeProps) => {
 
  <p className={"mt-2"}>But the most important part about my collection, the reason why I really started this. Is because when Covid started in 2020 a lot of people around the world started to be homeless and didn’t have a job because of lockdown and all of that nonsense, I and my family were victims our self, my dad works as a Chiropractor and travels back and forth from our home country to his clinics in a different country every week until Covid happened and he couldn’t fly back and forth anymore because there was a lockdown. Three months into the lockdown my dad got bankrupt, he couldn’t pay our bills anymore we were running out of our savings and couldn’t pay the rent of our house either, so then my dad got worried because he didn’t know what to do anymore and he also got depressed because he couldn’t provide for his family like a parent should do. Europe began to be really crazy there were Riots, military on the streets, and much more crazy stuff that I don’t even want to explain. So we decided to use our last amount of savings, packed our container with all our personal things, and left Europe to go all the way on the other side of the World, a better place with no riots or any trouble like the United States, Europe, etc. My dad set up a clinic in our new home country and got back on our feet.
 </p>
- WHY DID I CREATE THIS PROJECT?
-        </h1>
-        <div className="mt-8 px-10 flex flex-col items-center w-full md:(flex-row flex-wrap items-start max-w-screen-xl)">
-          <div className="flex flex-col w-full flex-shrink-0 p-3 md:w-1/2">
-            <h1
-              className="text-xl"
-              style={{
-                fontWeight: 900,
-                textShadow: '2px 2px 10px rgba(0,0,0,0.4)'
-              }}
+ 
  <p className={"mt-2"}>So the reason why I have created this project is that I want to help those in need The Homeless, people that don’t have much deserve more in the world like a roof over their head, food, a job, etc. A lot of people (Not saying all) that are middle class or Rich don’t really care about people that are homeless, they care more about their personal life AKA Selfish!
 </p>
 
