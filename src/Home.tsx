@@ -514,7 +514,7 @@ const Home = (props: HomeProps) => {
               Why should I buy one?
             </h1>
             <p>
-              Because they're Flamingos, who doesn't like Flamingos especially these! OK, not only because of that, also because we are going to be DONATING 20% of the launch to the homeless and because your supporting a young kid that spent a lot of time learning how to CODE creating the art keeping up with the socials and much more all by himself.
+              Because they're Flamingos, who doesn't like Flamingos especially these! OK, not only because of that, also because we are going to be DONATING 20% of the launch to the homeless and because your supporting a young KID that spent a lot of time learning how to CODE, creating the Art and keeping up with the socials and much more all by himself.
             </p>
           </div>
           <div className="flex flex-col w-full flex-shrink-0 p-3 md:w-1/2">
