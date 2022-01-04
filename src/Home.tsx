@@ -613,7 +613,7 @@ const Home = (props: HomeProps) => {
           <div className="flex items-center px-10 py-7 rounded-md border-2 border-black text-black bg-white shadow-md">
             <b className="mr-4 font-bold text-xl">50%</b>
             <span>
-              The Flamingo Mafia is not bad and dangerous like you would think, Yes! we do have a soft spot for helping those in need. So that's why we are donating 15%+ of the profit to the homeless, which will be chosen by the Mafia (community).
+             Airdroping 25 FM NFTS to random holders! The Flamingo Mafia is not bad and dangerous like you would think, Yes! we do have a soft spot for helping those in need. So that's why we are donating 15%+ of the profit to the homeless, which will be chosen by the Mafia (community).
             </span>
           </div>
           <div className="flex items-center px-10 py-7 rounded-md border-2 border-black text-black bg-white shadow-md">
