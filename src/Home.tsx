@@ -514,7 +514,7 @@ const Home = (props: HomeProps) => {
               Why should I buy one?
             </h1>
             <p>
-              Because they're Flamingos, who doesn't like Flamingos especially these! OK, not only because of that, also because we are going to be DONATING 20% of the launch to the homeless and because your supporting a young KID that spent a lot of time learning how to CODE, creating the Art and keeping up with the socials and much more all by himself.
+              Because they're Flamingos, who doesn't like Flamingos especially these! OK, not only because of that, also because we are going to be DONATING 15% of the launch to the homeless and because your supporting a young KID that spent a lot of time learning how to CODE, creating the Art and keeping up with the socials and much more all by himself.
             </p>
           </div>
           <div className="flex flex-col w-full flex-shrink-0 p-3 md:w-1/2">
@@ -613,7 +613,7 @@ const Home = (props: HomeProps) => {
           <div className="flex items-center px-10 py-7 rounded-md border-2 border-black text-black bg-white shadow-md">
             <b className="mr-4 font-bold text-xl">50%</b>
             <span>
-              The Flamingo Mafia is not bad and dangerous like you would think, Yes! we do have a soft spot for helping those in need. So that's why we are donating 20% of the profit to the homeless, which will be chosen by the Mafia (community).
+              The Flamingo Mafia is not bad and dangerous like you would think, Yes! we do have a soft spot for helping those in need. So that's why we are donating 15% of the profit to the homeless, which will be chosen by the Mafia (community).
             </span>
           </div>
           <div className="flex items-center px-10 py-7 rounded-md border-2 border-black text-black bg-white shadow-md">
