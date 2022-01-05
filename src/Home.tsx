@@ -564,7 +564,7 @@ const Home = (props: HomeProps) => {
               Who is the Creator?
             </h1>
             <p>
-              Spencer Ries. A 14 year old boy that loves creating art and joined the NFT space in 2020 and loves IT!
+              Spencer Ries. A 14 year old Kid that loves Crypto, Creating Businesses, making Art and joined the NFT space in 2020 and loves IT!
             </p>
           </div>
         </div>
