@@ -621,7 +621,7 @@ const Home = (props: HomeProps) => {
             <span>
               I will be hosting a Podcast where I will be inviting people from AMAZING NFT Projects to our PODCAST, talking about future plans for this project, NFT related stuff and much more.....
               I CAN'T SPOIL TOO MUCH LOL!
-              
+              <br/>
               I will also be hearing suggestions from the community of what should happen in the 2nd phase, like staking, Special collabs! etc.
               <br/>
               There are going to be many awesome things that could possibly happen in the near future. So you never know.
