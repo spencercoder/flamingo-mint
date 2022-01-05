@@ -620,12 +620,13 @@ const Home = (props: HomeProps) => {
           <div className="flex items-center px-10 py-7 rounded-md border-2 border-black text-black bg-white shadow-md">
             <b className="mr-4 font-bold text-xl">75%</b>
             <span>
-            Opening a Flamingo Mafia Merch line so that you can show off the Mafia you belong to! And…. 100% of the profit will be going to charities.
+            Building a Brand off of the Flamingo Mafia NFT Project so that you can show off the Mafia you belong to! 
             </span>
           </div>
           <div className="flex items-center px-10 py-7 rounded-md border-2 border-black text-black bg-white shadow-md">
             <b className="mr-4 font-bold text-xl">100%</b>
             <span>
+              I will be hosting a TEEN Podcast for the NFT Space so that I can inspire TEENS about NFT Space!
               I will be hearing suggestions from the community of what should happen in the 2nd phase, like staking, Special collabs! etc.
               <br/>
               There are going to be many awesome things that could possibly happen in the near future. So you never know.
