@@ -550,7 +550,7 @@ const Home = (props: HomeProps) => {
               What can I do with my Flamingo Mafia?
             </h1>
             <p>
-              It's yours. You own it, you have the rights to do anything with it. More plans will be coming soon in the upcoming phases on what you will earn with the Flamingo Mafia NFT that you have.
+              It's yours. You own it, you have the rights to do anything with it. You will also be invited to multible exclusive chats, events and you will be sent special airdrops IF OWNED. More plans will be coming soon in the upcoming phases on what you will earn with the Flamingo Mafia NFT that you have.
             </p>
           </div>
           <div className="flex flex-col w-full flex-shrink-0 p-3 md:w-1/2">
