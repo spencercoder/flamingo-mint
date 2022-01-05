@@ -607,7 +607,7 @@ const Home = (props: HomeProps) => {
           <div className="flex items-center px-10 py-7 rounded-md border-2 border-black text-black bg-white shadow-md">
             <b className="mr-4 font-bold text-xl">50%</b>
             <span>
-             Airdroping 25 FM NFTS to random holders! The Flamingo Mafia is not bad and dangerous like you would think, Yes! we do have a soft spot for helping those in need. So that's why we are donating 15%+ of the profit to the homeless, which will be chosen by the Mafia (community).
+             Airdropping 25 FM NFTS to random holders! The Flamingo Mafia is not bad and dangerous like you would think, Yes! we do have a soft spot for helping those in need. So that's why we are donating 15%+ of the profit to the homeless, which will be chosen by the Mafia (community).
             </span>
           </div>
           <div className="flex items-center px-10 py-7 rounded-md border-2 border-black text-black bg-white shadow-md">
@@ -619,8 +619,9 @@ const Home = (props: HomeProps) => {
           <div className="flex items-center px-10 py-7 rounded-md border-2 border-black text-black bg-white shadow-md">
             <b className="mr-4 font-bold text-xl">100%</b>
             <span>
-              I will be hosting a TEEN Podcast for the NFT Space so that I can inspire TEENS about NFT Space!
-              I will be hearing suggestions from the community of what should happen in the 2nd phase, like staking, Special collabs! etc.
+              I will be hosting a Podcast where I will be inviting people from AMAZING NFT Projects to our PODCAST, talking about future plans for this project, NFT related stuff and much more.....
+              I CAN'T SPOIL TOO MUCH LOL!
+              I will also be hearing suggestions from the community of what should happen in the 2nd phase, like staking, Special collabs! etc.
               <br/>
               There are going to be many awesome things that could possibly happen in the near future. So you never know.
             </span>
