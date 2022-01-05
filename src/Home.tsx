@@ -633,7 +633,23 @@ const Home = (props: HomeProps) => {
           </div>
         </div>
       </div>
-      
+      <div
+  
+        className="flex flex-col items-center justify-center w-full py-12"
+        style={{
+          fontFamily: 'Kollektif',
+          backgroundColor: '#F2C56A'
+        }}
+      >
+        <h1
+          className="text-3xl"
+          style={{
+            fontWeight: 900,
+            textShadow: '2px 2px 10px rgba(0,0,0,0.4)'
+          }}
+        >
+          OFF TO PHASE2
+          
       {/* <div
         ref={modalRef}
         className=""
