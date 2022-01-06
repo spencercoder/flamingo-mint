@@ -617,7 +617,7 @@ const Home = (props: HomeProps) => {
           <div className="flex items-center px-10 py-7 rounded-md border-2 border-black text-black bg-white shadow-md">
             <b className="mr-4 font-bold text-xl">75%</b>
             <span>
-            Building a Brand off of the Flamingo Mafia NFT Project so that you can show off the Mafia you belong to! 
+            Building a Brand off of the Flamingo Mafia NFT Project so that you can show off the Mafia you belong to! and.... 10% of profit will go to selected charities.
             </span>
           </div>
           <div className="flex items-center px-10 py-7 rounded-md border-2 border-black text-black bg-white shadow-md">
