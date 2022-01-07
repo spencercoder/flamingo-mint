@@ -253,7 +253,7 @@ const Home = (props: HomeProps) => {
             FAQ
           </a>
           <a
-            href="#roadmap"
+            href="#phase 1"
             className="z-10 font-bold text-black text-md hover:text-red-400 md:block"
           >
             Roadmap
@@ -493,7 +493,7 @@ const Home = (props: HomeProps) => {
               What is Flamingo Mafia?
             </h1>
             <p>
-              A unique NFT collection of 3000 Cool Mafia Birds that rule the Solana Streets. You will be able to use it for commercial or creative rights if owned.
+              A unique NFT collection of 3333 Cool Mafia Birds that rule the Solana Streets. You will be able to use it for commercial or creative rights if owned.
             </p>
           </div>
           <div className="flex flex-col w-full flex-shrink-0 p-3 md:w-1/2">
@@ -571,7 +571,7 @@ const Home = (props: HomeProps) => {
       </div>
 
       <div
-        id="roadmap"
+        id="Phase 1"
         className="flex flex-col items-center justify-center w-full py-12"
         style={{
           fontFamily: 'Kollektif',
@@ -585,7 +585,7 @@ const Home = (props: HomeProps) => {
             textShadow: '2px 2px 10px rgba(0,0,0,0.4)'
           }}
         >
-          Roadmap
+          PHASE 1
         </h1>
         <div className="mt-8 flex flex-col justify-center gap-3 w-full px-4 md:(gap-6 w-max-screen-xl)">
           <div className="flex items-center px-10 py-7 rounded-md border-2 border-black text-black bg-white shadow-md">
@@ -601,7 +601,7 @@ const Home = (props: HomeProps) => {
           <div className="flex items-center px-10 py-7 rounded-md border-2 border-black text-black bg-white shadow-md">
             <b className="mr-4 font-bold text-xl">25%</b>
             <span>
-              I will be preparing for the 2nd launch which will have the rest of the 2800 Flamingo Mafia members.
+              I will be preparing for the 2nd launch which will have the rest of the 3133 Flamingo Mafia members.
             </span>
           </div>
           <div className="flex items-center px-10 py-7 rounded-md border-2 border-black text-black bg-white shadow-md">
